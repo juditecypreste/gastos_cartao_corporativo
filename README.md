@@ -10,5 +10,5 @@ Esse análise de dados calculou quantos dos gastos feitos pela atual Presidênci
 
 ## Bibliotecas utilizadas
 
-Pandas: https://pandas.pydata.org/
+Pandas: https://pandas.pydata.org/  
 Glob: https://docs.python.org/3/library/glob.html
